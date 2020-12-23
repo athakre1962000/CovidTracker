@@ -1,1 +1,2 @@
-# covid19Tracker
+# covid19Tracker 
+### developed with React JS
